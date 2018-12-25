@@ -11,6 +11,8 @@
   "author": "ows",
   "license": "ISC",
   "devDependencies": {
+    "css-loader": "^2.0.2",
+    "style-loader": "^0.23.1",
     "webpack": "^4.28.2",
     "webpack-cli": "^3.1.2"
   },
